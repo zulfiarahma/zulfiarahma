@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">Wassup y'all 👋</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is Zulfia Rahma, and I'm a Technology Information student at Politeknik Negeri Madiun.</p>
+<p data-importer="text" align="left">Hey y'all, I'm Zulfia Rahma, a Technology Information student at Politeknik Negeri Madiun.<br><br>I'm out here learning, building, and leveling up my skills in tech. I chose Information Technology 'cause technology keeps growing, and there's always something new to learn and figure out.<br><br>Right now, I'm focused on improving my skills, building projects, and getting ready for whatever comes next. To me, tech ain't just about keeping up, it's about creating solutions, solving problems, thinking outside the box, and building something meaningful.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Learning and exploring technology<br>📚 I'm currently learning Python, Git, and Web Development<br>🎯 Goal: To become a competent IT professional and continuously improve my skills<br>💡 Interested in technology, innovation, and creating useful solutions</p>
+<p data-importer="text" align="left">✨ Out here learning and exploring tech<br>📚 Currently learning Python, Git, and Web Development<br>🎯 Tryna become better at what I do every day<br>💡 Into technology, creativity, innovation, and building useful stuff</p>
 
 ###
 
