@@ -1,20 +1,20 @@
-<h1 data-importer="text" align="left">Wassup y'all 👋</h1>
+<h1 data-importer="text" align="left">Hey what's up y'all?</h1>
 
 ###
 
-<p data-importer="text" align="left">Hey y'all, I'm Zulfia Rahma, a Technology Information student at Politeknik Negeri Madiun.<br><br>I'm out here learning, building, and leveling up my skills in tech. I chose Information Technology 'cause technology keeps growing, and there's always something new to learn and figure out.<br><br>Right now, I'm focused on improving my skills, building projects, and getting ready for whatever comes next. To me, tech ain't just about keeping up, it's about creating solutions, solving problems, thinking outside the box, and building something meaningful.</p>
+<p data-importer="text" align="left">Hi everyone! I’m Zulfia Rahma, an Information Technology student at Politeknik Negeri Madiun.<br><br>I’m currently learning, creating, and continuously developing my skills in the field of technology. I chose Information Technology because technology is constantly evolving, and there is always something new to learn, explore, and understand.<br><br>Right now, I’m focusing on improving my skills, building different projects, and preparing myself for whatever comes next. To me, technology is not just about keeping up with the times, it’s about creating solutions, solving problems, thinking outside the box, and building something meaningful.</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">About me✨</h2>
 
 ###
 
-<p data-importer="text" align="left">✨ Out here learning and exploring tech<br>📚 Currently learning Python, Git, and Web Development<br>🎯 Tryna become better at what I do every day<br>💡 Into technology, creativity, innovation, and building useful stuff</p>
+<p data-importer="text" align="left">📚 Currently learning and exploring the world of technology<br>💻 Learning Python, Git, and Web Development<br>🎯 Always striving to become a better version of myself every day<br>💡 Interested in technology, creativity, innovation, and creating useful things</p>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">I’m still learning, building, experimenting, and figuring things out along the way.<br><br>Still learning, still building, still growing. 🚀</h2>
 
 ###
 
